@@ -1,1 +1,1 @@
-Hello wellcome to git traing
+Hello wellcome to GIT training.
